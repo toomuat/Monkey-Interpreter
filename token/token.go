@@ -41,6 +41,8 @@ const (
 
 	EQ     = "=="
 	NOT_EQ = "!="
+
+	COLON = ":"
 )
 
 type TokenType string
